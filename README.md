@@ -1,2 +1,3 @@
 # water-model
 水体纳污能力模型
+开发环境为ASP.NET+Sqlserver，起初想使用ASP.NET MVC搭建系统，之后由于UI技能薄弱，最终采用Webform与ashx结合的方式开发，CMS采用html模板与ashx文件ajax交互的方式通信，系统采用Webform载入iframe控件的方式构建，iframe采用三栏式布局。
